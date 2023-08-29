@@ -145,3 +145,9 @@ line-height: 34px;
     text-align: center;
     margin-top: 50px;
 }
+footer{
+    background: #FFF8F3;
+    display: flex;
+    margin: top 100px; 
+    padding: 130px 200px;
+}
