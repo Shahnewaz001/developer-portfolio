@@ -87,3 +87,15 @@ color: Dark 01;
     color:Dark 03;
      
 }
+main
+{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
